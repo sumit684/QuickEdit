@@ -1,3 +1,4 @@
 [
-	{"keys": ["super+alt+h"], "command": "quick_edit"}
+	{"keys": ["super+alt+h"], "command": "quick_edit"},
+	{"keys": ["ctrl+alt+h"], "command": "quick_edit"}
 ]
